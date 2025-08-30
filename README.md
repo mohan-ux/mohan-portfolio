@@ -2,7 +2,6 @@
 
 A modern, interactive portfolio website showcasing my skills as a DevOps & Frontend Developer with a passion for Machine Learning and AI.
 
-![Portfolio Banner](./assets/banner.png)
 
 ## 🌟 Features
 
