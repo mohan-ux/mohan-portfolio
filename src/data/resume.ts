@@ -20,7 +20,7 @@ export const stats = [
   { value: '8.5', label: 'CGPA' },
   { value: '4+', label: 'Projects' },
   { value: '3', label: 'Certifications' },
-  { value: '2+', label: 'Yrs Exp' },
+  { value: '1', label: 'Yrs Exp' },
 ];
 
 export const roles = [
